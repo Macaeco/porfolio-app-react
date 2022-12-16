@@ -36,21 +36,12 @@ import CV from '../assets/images/cv.jpg';
 function Experience() {
 
 
-    const createPDF = async () => {
-        const pdf = new jsPDF("portrait", "pt", "a4");
-        const data = await document.querySelector("#pdf");
-        pdf.html(data).then(() => {
-            pdf.save("CV_MACARENA.pdf");
-        });
-        
-        console.log(data)
-    };
+   
     const [t, i18n] = useTranslation('global');
 
     return (
         <Container className="experience__container" >
 
-            <button onClick={createPDF} type="button">Download</button>
             
            
  
