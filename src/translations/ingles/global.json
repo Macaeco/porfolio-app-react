@@ -1,0 +1,73 @@
+
+
+{
+    "header":{
+        "about":"About me",
+        "expe":"Work experience",
+        "contact":"Contact",
+        "justes":"Settings"
+    },
+
+
+    "about":{
+        "hello":"Hi, I'm Macarena!",
+        "dev-ab":"Developer. Lawyer.",
+        "present":"I introduce myself! As I already told you, my name is Macarena, I am, among other things that I will tell you, a web developer, and the truth is that.... I love it! My specialty is front-end, although I'm a fullstack developer. I master several frameworks, like React, Angular, Vue... but well, that's another story, I'm telling you how I became a developer",
+        "more-present": "Previously I worked in a law firm, because I studied law, but the truth is that it seemed to me a very uncreative and comforting job (although I loved studying it) so I decided to reorient my life. I signed up for a fullstack bootcamp, and the truth is that I couldn't have made a better decision. I feel like I've discovered my 'twin profession', every day is a new challenge, and most importantly ... It's a super creative job! where I can squeeze my potential to the fullest. So much for my brief presentation!" 
+    },
+
+    "details":{
+        "reco-button":"Recommend",
+        "aficiones":"I will tell you what some of my hobbies are",
+        "rugbuer":"RUGBIER",
+        "mmore-rugby":"Junto la carrera de derecho, empecé a jugar a rugby en el equipo femenino de esta misma facultad, no sabía que se convertiría en una parte tan grande de mi vida. Años después, las chicas de mi equipo y yo fundamos el equipo federado de Alcobendas femenino, las lobas, para poder seguir jugando juntas. Mi trayectoria en el rugby duró siete maravillosos años. Actualmente aunque haya colgado las botas, tanto el rugby como las personas que en el conocí siguen teniendo un huequito reservado en mi día a día.",
+        "mx":"MX-RIDER",
+        "more-mx":"A few years ago, a friend of mine invited me to see him at an MX race. I was so impressed by the sport that I decided to buy 'Pistachi', my little bike, and start riding it myself. What I liked the most is that it is a sport that forces you to overcome your fears and yourself minute by minute. At the moment I'm just a beginner, but I love to look back and see how much I've improved in this time. ",
+        "artista":"ARTIST",
+        "more-artist": " Since I was very young I loved to paint. My mother noticed this and decided to put me in painting classes. On Thursdays. It was my favorite day of the week. I got better and better over the years, to the point that I dedicated myself to it for a few years, doing portraits on demand. I realized that putting schedules to something that depended 100% on the inspiration I had at the time was not a good idea, so I put aside the professional career as a portrait painter, and it was at that moment when I started to really enjoy it. I went to a lot of classes at the University of Fine Arts as a listener, not only painting, but also ceramics, sculpture, etc. Nowadays I paint what I feel like and when I feel like it, and I couldn't be happier with this hobby. My favorite stores are the stationers by far.",
+        "cocina": "COOK",
+        "more-cocina":"Just kidding, I am the worst cook in the universe, what I am good at is eating. Now seriously, another of my hobbies is: MOUNTAIN RIDING. I think the best plan that anyone can propose to me is a camping trip in the middle of the mountain. I am passionate about everything that has to do with nature, from its fauna and flora, to any activity that can be done in it. I live only 5 minutes walk from the mountain, and I try, at least once a week, to spend a day in the camp with my hammock, music and a book.  ",
+        "cine":"FILMS",
+        "more-cine":"What I feel for movies is a real passion, to the point that as a final project of the programming Bootcamp I made my own movie search engine. Not a week goes by that I don't see at least two new movies, that's what I try to do. But this has a negative side, and is that every time I want to see a movie I go to Filmin and start to see what movies there are, who they are from, what other movies those directors have, reviews... As if it were a real social network. And , finally, I don't see any, so if you want to",
+
+        "recomendarme": "recommend me",
+        "encantaria": "one, I would love to...",
+        "bootcamp": "BOOTCAMP FULLSTACK DEVELOPER",
+        "cursos": "OTHER COURSES",
+        "derecho": "LAW DEGREE",
+        "conocemos":"Now that we know each other better, let's talk about my background:",
+        "more-boot":" This year I studied a full-stack developer Bootcamp at Neoland school. This course lasted 480 hours in which we were trained to work on the MERN technology stack, using fully responsive design, database management, full backend creation based on the MVC architecture pattern. Version management, Git... ",
+        "more-cursos":"On my own, I decided to study other courses while working, so as not to stop training. ",
+        "more-angular":"-Angular - from zero to exxpert : Components, directives, services, maps, graphs, JWT, authentication, deployments, mongo, Git, GitHub",
+         "more-php":"PHP 8 and MYSQL: databases in MYSQL. Creating Contact Forms, Image Galleries, User Registration Pages, Blogs, working with AJAX...", 
+         "more-redux":"REDUX in Angular - Udemy : Implement the Redux pattern, master the NGRX library and tools offered by the package, create applications based on state changes, experience with Firebase.", 
+         "more-node":"Node.js: Create backend server, upload and manage files on server, deploy on Heroku, Github and Git, create REST services, json web tokens, create applications using sockets",
+        "more-type":"TypeScript - Microsoft : Create more robust code, reduce runtime type errors, take advantage of modern features before they are available in JavaScript, and work better with development teams.",
+        "more-derecho": "My training as a lawyer has played a fundamental role in my professional growth, as I learned to resolve conflicts on my own, discipline and teamwork." 
+
+      
+    },
+
+    "button":{
+        "puedes": "You can find me at :",
+        "contacta": "Contact me",
+        "o": "Or if you prefer, leave your contact information and I will be the one to contact you!",
+        "email": "Email",
+        "name": "Nombre",
+        "movil": "Movil",
+        "msn": "Message",
+        "submit": "Send",
+        "cancelar": "cancel"
+    },
+    "ex": {
+        "celon": "I have been working for eight months at Celon media as a frontend. it is a digital marketing agency. In this company I learned a lot about logic and how to work in a team. We worked in Ngular with TypeScript. They gave me a lot of autonomy when it came to managing projects, and little by little I was growing and taking charge of more things. Eventually I was in charge of several projects that I had to manage and develop. I was also in charge of design and layout. ",
+        "celon2": "Eventually I had several projects under my responsibility that I had to manage and develop. I was also in charge of the design and layout. ",
+        "biy": "Biyiud is a Start-up in which I worked this year for a total of three months. They worked with React and JavaScrit. In Biyiud I learned to use Agile methodologies like Scrum. We used Jira and had follow-up meetings. I learned to work following good practice patterns, keeping a clean and readable code. Teamwork was encouraged in a dynamic way. ",
+        "biy2":" I learned to work following the patterns of good practices, keeping a clean and readable code. It encouraged a lot of teamwork in a dynamic way. ",
+        "neo": "In Neoland we had to do several projects at scale as a team, following Agile methodologies and the MVC model. You can find them all in my Github. These projects were done following the MERN technology stack. ",
+        "neo2": "I learned how to work in a team, using Git in the right way. Also how to manage my projects and organize the work to make it as efficient as possible",
+        "me": "On my own I have done several projects, being these also in my Github. I have used technologies such as Redux, MySQL, Vue.js...",
+        "me2": "Working on my own I have lost the fear of trying new things and satisfying the curiosity that often comes with programming. "
+    }
+
+}

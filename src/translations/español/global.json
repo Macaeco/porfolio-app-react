@@ -1,0 +1,63 @@
+{
+    "header": {
+        "about": "Sobre mi",
+        "expe": "Experiencia laboral",
+        "contact": "Contacto",
+        "justes": "Ajustes"
+    },
+    "about": {
+        "hello": "¡Hola, Soy Macarena!",
+        "dev-ab": "Developer. Abogada.",
+        "present": "¡Me presento! Como ya os he dicho, mi nombre es Macarena, soy, entre otras mcuha cosas que ya os contaré, desarolladora web, y la verdad es que... ¡Me encanta! Mi especialidad es el front-end, aunque soy fullstack. Domito varios frameworks, como React, Angular, Vue... pero bueno, eso es otra historia,  os estoy contando cómo llegué a ser developer.",
+        "more-present": "Anteriormente trabajaba en un despacho de Abogados, pues estudié derecho, pero lo cierto es que me parecía un trabajo muy poco creativo y reconfortante (aunque me encantó estudiarlo) así, que decidí reorientar mi vida. Me apunté a un bootcamp de fullstack, y la verdad es que no pude haber tomado mejor decisión. Siento que he descubierto mi 'profesion gemela' , cada día es  un nuevo reto, y lo más importante ...¡Es un trabajo super creativo! en el que puedo exprimir mi potencial al máximo. ¡Hasta aqui mi breve presentación!"
+    },
+    "details": {
+        "reco-button": "Recomendar",
+        "aficiones": "Os contaré cuales son algunas de mis aficones",
+        "rugbuer": "RUGBIER",
+        "mmore-rugby": "Junto la carrera de derecho, empecé a jugar a rugby en el equipo femenino de esta misma facultad, no sabía que se convertiría en una parte tan grande de mi vida. Años después, las chicas de mi equipo y yo fundamos el equipo federado de Alcobendas femenino, las lobas, para poder seguir jugando juntas. Mi trayectoria en el rugby duró siete maravillosos años. Actualmente aunque haya colgado las botas, tanto el rugby como las personas que en el conocí siguen teniendo un huequito reservado en mi día a día.",
+        "mx": "MX-RIDER",
+        "more-mx": "Hace unos años, un amigo me invitó a verle a una carrera de mx que había. Me quedé impresionada por aquel deporte, tanto, que decidí comprarme a 'Pistachi' , mi motito, y empezar a montar yo también. Lo que más me gusto es que es  un deporte que te obliga a superar tus miedo y a ti mismo minuto a minuto. De momento soy solo una principiate, pero me encanta mirar atrás y ver todo lo que he mejorado en este tiempo. ",
+        "artista": "ARTISTA",
+        "more-artist": " Desde muy pequeñita me encantaba pintar. Mi madre se percató de esto y decidió meterme a clases de pintura. Los jueves. Era mi día favorito de la semana. Fui mejorando con los años, hasta el punto que me llegué a dedicar de ello unos años, haciendo retratos por engargo. Me dí cuenta que ponerle horarios a algo que dependía 100% de la inspiración que tuviese en el momento no era buena idea, así que deje a un lado la carrera profesional como retratista, y fue en ese momento cuando empecé a disfrutar realmente de ello. Iba a muchas clases en la Universidad de Bellas Artes como oyente, no solo de pintura, también de cerámica, escultura, etc. Actualmente pinto lo que me apetece y cuando me apetece, y no me puede hace rmás feliz esta afición. Mi  comercio favorito son las papelerías con mucha diferencia.",
+        "cocina": "COCINA",
+        "more-cocina": "Es broma, soy la peor cocinera del universo,lo que si se me da bien es comer. Ahora en serio, otra de mis aficiones es : LA MONTAÑA . Creo que el mejor plan que cualquiera me puede proponer es una acampada en mitad del monte. Me apasiona todo lo que tenga que ver con la naturaleza, desde su fauna  y flora, hasta cualquier actvidad que se pueda hacer en ella. Vivo a tan solo 5 minutos andando de la montaña, e intento, al menos una vez a la semana, ir a pasar un día en el campito con mi hamaca, musica y un libro.  ",
+        "cine": "CINE",
+        "more-cine": "Lo que siento por el cine es autentica pasión, hasta el punto que como proyecto final del Bootcamp de programaicón hice mi propio buscador de peliculas. No pasa una semana sin que vea como mínimo dos peliculas nuevas,  eso intento. Pero esto tiene un lado negativo, y es que cad vez que quiero ver una pelicula me meto en Filmin y empiezo a ver qué peliculas hay, de quién son, qué más pelis tienen esos directores, criticas... Como si fuese una auténtica red social. Y , finalmente, no veo ninguna,  así que si quieres",
+        "recomendarme": "recomendarme",
+        "encantaria": "una, me encantaría..",
+        "bootcamp": "BOOTCAMP FULLSTACK DEVELOPER",
+        "cursos": "OTROS CURSOS",
+        "derecho": "GRADO EN DERECHO",
+        "conocemos": "Ahora que nos concomos mejor, hablemos sobre mi formación:",
+        "more-boot": " Este año estudié un Bootcamp de full-stack developer en la escuela Neoland. este curso duró 480 horas en las que nos formaton para trabajar en el stack tecnológico MERN, usando diseños completamente responsive, gestion de bases de datos , creacion de backend completo basado en e patrón de arquiectura  MVC. Manejo de veriones, Git... ",
+        "more-cursos": "Por mi cuenta dicidi estudiar otros cursos mientras trabajanba, para no dejar de formarme. ",
+        "more-angular": "-Angular - de cero a exxperto : Componentes, directivas, servicios, mapas, gráficas, JWT, autenticación, despliegues, mongo, Git, GitHub",
+        "more-php": "-PHP 8 y MYSQL: bases de datos en MYSQL. Crear Formularios de Contacto, Galerías de Imágenes, Paginas de Registro de Usuarios, Blogs , trabajar con AJAX..",
+        "more-redux": "-REDUX en Angular - Udemy : Implementar el patrón Redux , dominar la librería de NGRX y Herramientas que ofrece el paquete, crear aplicaciones basadas en cambios de estado, experiencia con Firebase.",
+        "more-node": "-Node.js: Crear backend server, subir y administrar archivos en el servidor, despliegues en Heroku, Github y Git, crear servicios REST, json web tokens, crear aplicaciones usando sockets",
+        "more-type": "-TypeScript - Microsoft : Crear código más sólido, reducir los errores de tipos en tiempo de ejecución, aprovechar las ventajas de las modernas características antes de que estén disponibles en JavaScript y trabajar mejor con los equipos de desarrollo.",
+        "more-derecho": "Mi formación como abogado ha desempeñado un papel fundamental en mi crecimiento laboral , pues aprendí a resolver conflictos por mí misma, disciplina y trabajo en equipo."
+    },
+    "button": {
+        "puedes": "Puedes encontrame en :",
+        "contacta": "Contacta conmigo",
+        "o": "O si lo prefieres, deja tus datos y seré yo la que te contacte!",
+        "email": "Email",
+        "name": "Nombre",
+        "movil": "Movil",
+        "msn": "Mensaje",
+        "submit": "Enviar",
+        "cancelar": "Cancelar"
+    },
+    "ex": {
+        "celon": "He estado ocho eses trabajando en Celon media como frontend. se trata de una agencia de marketing digital. En esta empresa he aprendido una barbaridad tanto de lógica cómo a trabajar en equipo. Trabajábamos en Ngular con TypeScript. Me dieron mucho autonomía a la hora de gestionar proyectos, y poco a poco fui creciendo y encargándome de más cosas. Finalmente tenía varios proyectos a mi cargo que tenía que gestionar y desarrollar. También me encargaba del diseño y maquetación. ",
+        "celon2":"Finalmente tenía varios proyectos a mi cargo que tenía que gestionar y desarrollar. También me encargaba del diseño y maquetación. ",
+        "biy": "Biyiud es una Start-up en la que trabajé este año un total de tres meses. Se trabajaba con React y JavaScrit. En Biyiud aprendí  a utilizar metodoligías Agile como Scrum. Utilizabamos Jira y teníamos reuniones de seguimiento. Aprendí a trabajar siguiendo los patrones de las buenas prçacticas, mateniendo un código limpio y legible. Se fomentaba mucho en trabajo en equipo de una manera dinámica. ",
+        "biy2":" Aprendí a trabajar siguiendo los patrones de las buenas prçacticas, mateniendo un código limpio y legible. Se fomentaba mucho en trabajo en equipo de una manera dinámica. ",
+        "neo": "En Neoland tuvimos que realizar varios pryectos a escala en equipo, siguiendo metodologías Agiles y el modelo MVC. Podeis encontrarlos todos en mi Github. Estos proyectos los realizamos isguiendo el stack tecnológico MERN. ",
+        "neo2":"Aprendí a trabajar en equipo, utilizando Git de la forma correcta. También a gestionar mis proyectos y organizar el trabajo para que fuese lo más eficiente posible  ",
+        "me": "Por micuenta he realizado varios proyectos, estando estos tambén en mi Github. He utilizado tecnologías como Redux, MySQL, Vue.js...",
+        "me2":"Trabajando por mi cuenta le he perdido el miedo a probar cosas nuevas y a satisfacer la curiosidad que muchas veces se siente programando. "
+    }
+}
