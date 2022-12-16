@@ -495,7 +495,7 @@ body {
 
 .footer__container {
   min-width: 100vw;
-  height: 9vh;
+  height: 7vh;
   background: rgb(0,0,0);
   background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(33,37,41,1) 90%);
 }
@@ -832,10 +832,12 @@ body {
   }
   .navbar__text {
     margin-left: 8rem;
-    font-size: x-large;
+    font-size: x-small;
   }
   #navbarg {
-    min-height: 8rem;
+    min-height: 5rem;
+    font-size: small
+
   }
   .macarena {
     margin-top: 5rem;

@@ -68,6 +68,14 @@
         "neo2": "I learned how to work in a team, using Git in the right way. Also how to manage my projects and organize the work to make it as efficient as possible",
         "me": "On my own I have done several projects, being these also in my Github. I have used technologies such as Redux, MySQL, Vue.js...",
         "me2": "Working on my own I have lost the fear of trying new things and satisfying the curiosity that often comes with programming. "
+    },
+    "footer":{
+        "a":"Consult and download my CV:"
+    },
+    "cv":{
+        "a": "DOWNLOAD CV",
+        "b": "Back to home"
     }
+
 
 }

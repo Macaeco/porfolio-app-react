@@ -59,5 +59,16 @@
         "neo2":"Aprendí a trabajar en equipo, utilizando Git de la forma correcta. También a gestionar mis proyectos y organizar el trabajo para que fuese lo más eficiente posible  ",
         "me": "Por micuenta he realizado varios proyectos, estando estos tambén en mi Github. He utilizado tecnologías como Redux, MySQL, Vue.js...",
         "me2":"Trabajando por mi cuenta le he perdido el miedo a probar cosas nuevas y a satisfacer la curiosidad que muchas veces se siente programando. "
+    },
+    "footer":{
+        "a":"Consulta y descárgate mi CV:"
+    },
+
+    "cv":{
+        "a":"DESCARGAR CV",
+        "b":"Volver a la home"
     }
+
+    
+    
 }
