@@ -93,7 +93,7 @@ function Details() {
                         {t("details.rugbuer")}
                         <span className="read-more-target">       <br />
                             {t("details.mmore-rugby")}</span></p>
-                    <label for="rugby" className="read-more-trigger"></label>
+                    <label htmlFor="rugby" className="read-more-trigger"></label>
                 </Col>
                 <Col data-aos="fade-up"
                     data-aos-duration="700" xs={12} sm={2}  className=" d-flex flex-column align-items-center">
@@ -103,7 +103,7 @@ function Details() {
                         {t("details.mx")}
                         <span className="read-more-target">       <br />
                             {t("details.more-mx")}</span></p>
-                    <label for="mx-rider" className="read-more-trigger"></label>
+                    <label htmlFor="mx-rider" className="read-more-trigger"></label>
                 </Col>
                 <Col data-aos="fade-up"
                     data-aos-duration="700" xs={12} sm={2}  className=" d-flex flex-column align-items-center">
@@ -113,7 +113,7 @@ function Details() {
                         {t("details.artista")}
                         <span className="read-more-target">       <br />
                             {t("details.more-artist")}</span></p>
-                    <label for="artist" className="read-more-trigger"></label>
+                    <label htmlFor="artist" className="read-more-trigger"></label>
                 </Col>
                 <Col data-aos="fade-up"
                     data-aos-duration="700" xs={12} sm={2}  className=" d-flex flex-column align-items-center">
@@ -123,7 +123,7 @@ function Details() {
                         {t("details.cocina")}
                         <span className="read-more-target">       <br />
                             {t("details.more-cocina")}</span></p>
-                    <label for="programadora" className="read-more-trigger"></label>
+                    <label htmlFor="programadora" className="read-more-trigger"></label>
                 </Col>
                 <Col data-aos="fade-up"
                     data-aos-duration="700" xs={12} sm={2}   className=" d-flex flex-column align-items-center">
@@ -138,7 +138,7 @@ function Details() {
                             </OverlayTrigger>
                             {t("details.encantaria")}
                         </span></p>
-                    <label for="abogada" className="read-more-trigger"></label>
+                    <label htmlFor="abogada" className="read-more-trigger"></label>
                 </Col>
             </Row>
             <Row >
@@ -158,11 +158,11 @@ function Details() {
                     data-aos-duration="700" xs={12} sm={4} className=" d-flex flex-column align-items-center">
                     <input type="checkbox" className="read-more-state" id="bootcamp" />
 
-                    <p d className="subtitle read-more-wrap d-flex flex-column align-items-center">
+                    <p  className="subtitle read-more-wrap d-flex flex-column align-items-center">
                         BOOTCAMP FULLSTACK DEVELOPER
                         <span className="read-more-target">       <br />
                             {t("details.more-boot")}</span></p>
-                    <label for="bootcamp" className="read-more-trigger"></label>
+                    <label htmlFor="bootcamp" className="read-more-trigger"></label>
                 </Col>
                 <Col data-aos="fade-up"
                     data-aos-duration="700" xs={12} sm={4} className=" d-flex flex-column align-items-center">
@@ -172,7 +172,7 @@ function Details() {
                             {t("details.more-cursos")}
                             <br />  <br /> {t("details.more-angular")} <br />  <br /> {t("details.more-redux")} <br />  <br /> {t("details.more-node")} <br />  <br /> {t("details.more-type")}      <br />  <br />  {t("details.more-php")}
                         </span></p>
-                    <label for="cursos" className=" read-more-trigger"></label>
+                    <label htmlFor="cursos" className=" read-more-trigger"></label>
                 </Col>
                 <Col data-aos="fade-up"
                     data-aos-duration="700" xs={12} sm={4} className=" d-flex flex-column align-items-center">
@@ -182,7 +182,7 @@ function Details() {
                         {t("details.derecho")}                        <span className="read-more-target">       <br />
                             {t("details.more-derecho")}
                         </span></p>
-                    <label for="derecho" className=" read-more-trigger"></label>
+                    <label htmlFor="derecho" className=" read-more-trigger"></label>
                 </Col>
             </Row>
 

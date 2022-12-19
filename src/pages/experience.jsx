@@ -57,10 +57,10 @@ function Experience() {
                         <Row>
                             <Col data-aos="fade-up"
                                 data-aos-duration="300" className="subtitle__ " >
-                                <input type="checkbox" class="read-more-state" id="celon" /><p class="read-more-wrap ">  {t("ex.celon")}
-                                    <span class="read-more-target">       <br />
+                                <input type="checkbox" className="read-more-state" id="celon" /><p className="read-more-wrap ">  {t("ex.celon")}
+                                    <span className="read-more-target">       <br />
                                         {t("ex.celon2")}</span></p>
-                                <label for="celon" className=" read-more-trigger button__readmore"></label></Col>
+                                <label htmlFor="celon" className=" read-more-trigger button__readmore"></label></Col>
                         </Row>
                     </Row>
                 </Col>
@@ -75,10 +75,10 @@ function Experience() {
                         <Row>
                             <Col data-aos="fade-up"
                                 data-aos-duration="300" className="subtitle__ " >
-                                <input type="checkbox" class="read-more-state" id="buyiud" /><p class="read-more-wrap "> {t("ex.biy")}
-                                    <span class="read-more-target">       <br />
+                                <input type="checkbox" className="read-more-state" id="buyiud" /><p className="read-more-wrap "> {t("ex.biy")}
+                                    <span className="read-more-target">       <br />
                                         {t("ex.biy2")}</span></p>
-                                <label for="buyiud" className=" read-more-trigger button__readmore"></label></Col>
+                                <label htmlFor="buyiud" className=" read-more-trigger button__readmore"></label></Col>
                         </Row>
                     </Row>
                 </Col>
@@ -93,10 +93,10 @@ function Experience() {
                         <Row>
                             <Col data-aos="fade-up"
                                 data-aos-duration="300" className="subtitle__ " >
-                                <input type="checkbox" class="read-more-state" id="neoland" /><p class="read-more-wrap "> {t("ex.neo")}
-                                    <span class="read-more-target">       <br />
+                                <input type="checkbox" className="read-more-state" id="neoland" /><p className="read-more-wrap "> {t("ex.neo")}
+                                    <span className="read-more-target">       <br />
                                         {t("ex.neo2")}</span></p>
-                                <label for="neoland" className=" read-more-trigger button__readmore"></label></Col>
+                                <label htmlFor="neoland" className=" read-more-trigger button__readmore"></label></Col>
                         </Row>
                     </Row>
                 </Col>
@@ -113,10 +113,10 @@ function Experience() {
                         <Row>
                             <Col data-aos="fade-up"
                                 data-aos-duration="300" className="subtitle__ " >
-                                <input type="checkbox" class="read-more-state" id="me" /><p class="read-more-wrap "> {t("ex.me")}
-                                    <span class="read-more-target">       <br />
+                                <input type="checkbox" className="read-more-state" id="me" /><p className="read-more-wrap "> {t("ex.me")}
+                                    <span className="read-more-target">       <br />
                                         {t("ex.me2")}</span></p>
-                                <label for="me" className="read-more-trigger button__readmore"></label></Col>
+                                <label htmlFor="me" className="read-more-trigger button__readmore"></label></Col>
                         </Row>
                     </Row>
                 </Col>

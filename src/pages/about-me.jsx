@@ -46,7 +46,7 @@ function AboutMe() {
                         {t("about.present")}
                             <span className="read-more-target">       <br />
                             {t("about.more-present")}</span></p>
-                        <label for="post-1" className=" read-more-trigger"></label>
+                        <label htmlFor="post-1" className=" read-more-trigger"></label>
                 </Col>
             </Row>
             <Details></Details>
